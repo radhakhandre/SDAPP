@@ -1,0 +1,4 @@
+Exception occured while clicking 'login':Error: locator.click: Test timeout of 80000ms exceeded.
+Call log:
+  - waiting for getByRole('button', { name: 'Login' })
+

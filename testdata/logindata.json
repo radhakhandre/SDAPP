@@ -1,0 +1,14 @@
+[
+    {
+        "testName":"Valid Login",
+        "email":"khandre.radha@gmail.com",
+        "password":"Test12!@",
+        "expected":"success"
+    },
+    {
+       "testName":"InValid Login",
+        "email":"abc@gmail.com",
+        "password":"abcdfgh",
+        "expected":"failure" 
+    }
+]
